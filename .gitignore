@@ -1,0 +1,12 @@
+# keep raw data local
+raw_data/
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+*.Rproj
+
+# OS
+.DS_Store
+~$*
